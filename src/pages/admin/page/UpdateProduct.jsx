@@ -49,6 +49,9 @@ function UpdateProduct() {
                             Update Product
                         </button>
                     </div>
+                    <div>
+                        <p>Hi</p>
+                    </div>
                  
                 </div>
             </div>
